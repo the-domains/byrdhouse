@@ -2,6 +2,7 @@ name: Byrdhouse
 favicon: null
 layout_spectrum: 0.50333
 typography_spectrum: 0
+title: Byrdhouse
 cta:
   domain: null
   bucket: null
