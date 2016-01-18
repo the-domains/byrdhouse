@@ -1,8 +1,7 @@
 name: Byrdhouse
 favicon: null
-layout_spectrum: 0.50333
-typography_spectrum: 0
-title: Byrdhouse
+layout_spectrum: 0.16813804861158133
+typography_spectrum: 0.4880807807203382
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1f191b'
-    - '#384635'
-    - '#686f50'
-    - '#9e9e7a'
-    - '#dce0c7'
-  brandStrength: 0
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5066224047914147
   lightness: 0.6456353443209082
-  saturation: 0.8125
-  rhythmicContrast: 1
+  saturation: 0.7361015016213059
+  rhythmicContrast: 0.9214934231713414
 purpose: []
