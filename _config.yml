@@ -1,7 +1,7 @@
 name: Byrdhouse
 favicon: null
-layout_spectrum: 0.16813804861158133
-typography_spectrum: 0.4880807807203382
+layout_spectrum: 0.50333
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#DD403A'
   brandStrength: 0.5
   lightness: 0.6456353443209082
-  saturation: 1
-  rhythmicContrast: 0.9214934231713414
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
